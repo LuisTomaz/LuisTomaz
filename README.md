@@ -1,6 +1,6 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi 👋, I'm Luis Felipe Tomaz</h1>
-<h3 align="center">A passionate Fullstack developer and RPA developer from Brazil</h3>
+<h3 align="center">A passionate Data Science and RPA developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luistomaz&label=Profile%20views&color=0e75b6&style=flat" alt="luistomaz" /> </p>
 
