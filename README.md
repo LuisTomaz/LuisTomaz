@@ -1,6 +1,4 @@
-<div style="width: 100px;">
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
-</div>
 <h1 align="center">Hi 👋, I'm Luis Felipe Tomaz</h1>
 <h3 align="center">A passionate Data Science and developer from Brazil</h3>
 
