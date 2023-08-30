@@ -1,20 +1,20 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi 👋, I'm Luis Felipe Tomaz</h1>
-<h3 align="center">A passionate Data Science and RPA developer from Brazil</h3>
+<h3 align="center">A passionate Data Science and developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luistomaz&label=Profile%20views&color=0e75b6&style=flat" alt="luistomaz" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Automations**
+- 🔭 I’m currently working on **Data**
 
-- 🌱 I’m currently learning **JavaScript, Python, SQL and RPA**
+- 🌱 I’m currently learning **JavaScript, Python, SQL and VBA**
 
-- 💬 Ask me about **JavaScript and RPA**
+- 💬 Ask me about **JavaScript and VBA**
 
 - 📫 How to reach me **luis.luistomaz@gmail.com**
 
-- ⚡ Fun fact **I love to automate**
+- ⚡ Fun fact **I love Data**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
